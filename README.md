@@ -1,0 +1,2 @@
+# FlipACoin
+Example for gRPC
