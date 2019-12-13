@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipACoin", "FlipACoin\FlipACoin.csproj", "{2B143AB6-27C7-404C-8549-66EF40037115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipACoinServer", "FlipACoinServer\FlipACoinServer.csproj", "{77450E93-9B45-4F1F-8B52-7CE5E292FDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipACoinClient", "FlipACoinClient\FlipACoinClient.csproj", "{B9BB4346-27E4-49C4-AD51-C63B8E371D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B143AB6-27C7-404C-8549-66EF40037115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B143AB6-27C7-404C-8549-66EF40037115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B143AB6-27C7-404C-8549-66EF40037115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B143AB6-27C7-404C-8549-66EF40037115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77450E93-9B45-4F1F-8B52-7CE5E292FDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77450E93-9B45-4F1F-8B52-7CE5E292FDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77450E93-9B45-4F1F-8B52-7CE5E292FDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77450E93-9B45-4F1F-8B52-7CE5E292FDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BB4346-27E4-49C4-AD51-C63B8E371D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BB4346-27E4-49C4-AD51-C63B8E371D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BB4346-27E4-49C4-AD51-C63B8E371D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BB4346-27E4-49C4-AD51-C63B8E371D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

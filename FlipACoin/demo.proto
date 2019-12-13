@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option csharp_namespace = "Protobuf";
+
+package test;
+
+// service definition
+service FlipACoin {
+    rpc Start (stream Coin) returns (stream Coin);
+}
+
+message Coin {
+     bool Head = 1;
+}
